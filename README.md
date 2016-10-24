@@ -19,4 +19,6 @@ Let's test an ordered list:
 
 1.  Here is the third step. 
 
-Let's embed a video. 
+You can't actually embed a video, only add a link. 
+
+https://www.youtube.com/watch?v=tIKJGJ9OuYk#action=share
