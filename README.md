@@ -22,3 +22,5 @@ Let's test an ordered list:
 You can't actually embed a video, only add a link. 
 
 https://www.youtube.com/watch?v=tIKJGJ9OuYk#action=share
+
+Tables are not easy to deal with. And we create a lot of tables. 
